@@ -1,0 +1,17 @@
+
+header {
+ color:#039112;
+ font-size: 25px;
+ padding: 15px 15px;
+}
+header span {
+ color: #993399;
+}
+nav {
+ font-size: 1.5em;
+ margin: 5px 0;
+ padding: 20px 50px
+}
+nav li {
+ display: inline;
+}
